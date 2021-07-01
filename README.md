@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naja23
 - 👀 I’m interested in cell and mollecular biology, neuroscience and computational biology.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python. I'm in the second year of my bachelor in Biology at University of Coimbra.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
