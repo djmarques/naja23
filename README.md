@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naja23
 - 👀 I’m interested in neuroscience and computational biology.
-- 🌱 I’m currently learning Python and fundamentals of computer science at edX. I'm also in the first year of the master's program in Biomedical Research at iMM/FMUL.
+- 🌱 I'm  in the second year of the master's program in Biomedical Research at GIMM/FMUL.
 - 💞️ I will be looking to collaborate on projects related with data analysis in biological sciences in the near future.
 - 📫 Reach me at my e-mail.
 
